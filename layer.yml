@@ -1,0 +1,6 @@
+---
+- name: demolayer
+  hosts: all
+  roles:
+    - hnakamur.osx-go
+    - jMaskedman.osx-rsync
